@@ -1,0 +1,11 @@
+D:\projects\CSharp\NumberToWordRepresentations\obj\Debug\netcoreapp2.0\NumberToWordRepresentations.csprojAssemblyReference.cache
+D:\projects\CSharp\NumberToWordRepresentations\obj\Debug\netcoreapp2.0\NumberToWordRepresentations.csproj.CoreCompileInputs.cache
+D:\projects\CSharp\NumberToWordRepresentations\obj\Debug\netcoreapp2.0\NumberToWordRepresentations.AssemblyInfoInputs.cache
+D:\projects\CSharp\NumberToWordRepresentations\obj\Debug\netcoreapp2.0\NumberToWordRepresentations.AssemblyInfo.cs
+D:\projects\CSharp\NumberToWordRepresentations\bin\Debug\netcoreapp2.0\NumberToWordRepresentations.deps.json
+D:\projects\CSharp\NumberToWordRepresentations\bin\Debug\netcoreapp2.0\NumberToWordRepresentations.runtimeconfig.json
+D:\projects\CSharp\NumberToWordRepresentations\bin\Debug\netcoreapp2.0\NumberToWordRepresentations.runtimeconfig.dev.json
+D:\projects\CSharp\NumberToWordRepresentations\bin\Debug\netcoreapp2.0\NumberToWordRepresentations.dll
+D:\projects\CSharp\NumberToWordRepresentations\bin\Debug\netcoreapp2.0\NumberToWordRepresentations.pdb
+D:\projects\CSharp\NumberToWordRepresentations\obj\Debug\netcoreapp2.0\NumberToWordRepresentations.dll
+D:\projects\CSharp\NumberToWordRepresentations\obj\Debug\netcoreapp2.0\NumberToWordRepresentations.pdb
